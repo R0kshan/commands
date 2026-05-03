@@ -11,6 +11,4 @@ A collection of Claude skills designed to work with models that can be locally h
 
 Developement in progress.
 
-## Plans
 
-- Add promtfoo in github workflow to test and verify their reliability
